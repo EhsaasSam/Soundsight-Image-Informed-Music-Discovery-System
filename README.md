@@ -21,4 +21,5 @@ This project aims to create a personalized music recommendation system that anal
 2. **Emotion Detection:** The system analyzes the image to detect emotions.
 3. **Music Recommendation:** Based on the detected emotions, the system recommends a list of music tracks.
 
-Explore the repository to find detailed implementation steps, code, and additional documentation.
+You can access the FER2013 dataset, the trained emotions model, and other files through the drive link provided here:-
+https://drive.google.com/drive/folders/1kG_bNo6-NTpPauYiS827nvqNOoSbv4Bw?usp=drive_link
