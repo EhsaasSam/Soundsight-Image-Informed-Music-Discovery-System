@@ -17,8 +17,8 @@ This project aims to create a personalized music recommendation system that anal
 
 **How to Use**
 
-**1. Upload an Image:** Provide an image with a clear view of the face.
-**2. Emotion Detection:** The system analyzes the image to detect emotions.
-**3. Music Recommendation:** Based on the detected emotions, the system recommends a list of music tracks.
+1. **Upload an Image:** Provide an image with a clear view of the face.
+2. **Emotion Detection:** The system analyzes the image to detect emotions.
+3. **Music Recommendation:** Based on the detected emotions, the system recommends a list of music tracks.
 
 Explore the repository to find detailed implementation steps, code, and additional documentation.
