@@ -2,7 +2,7 @@ This project aims to create a personalized music recommendation system that anal
 
 **Key Features**
 
-1. Emotion Detection: Uses a CNN model trained on the FER2013 dataset to classify facial expressions into emotions.
+1. Emotion Detection: Uses a CNN model trained on the FER2013 dataset to classify facial expressions into emotions. You can get the FER2013 dataset from Kaggle.
 2. Music Recommendation: Clusters music tracks based on features like danceability, energy, and valence to match detected emotions.
 3. Data Augmentation: Employs data augmentation techniques to improve model robustness.
 4. Real-Time Analysis: Processes images in real-time to provide immediate music recommendations.
